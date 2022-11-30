@@ -1,5 +1,5 @@
 {
-  "name": "dockerode",
+  "name": "@coderpad_io/dockerode",
   "description": "Docker Remote API module.",
   "version": "3.3.4",
   "author": "Pedro Dias <petermdias@gmail.com>",
